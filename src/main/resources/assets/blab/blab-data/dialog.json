@@ -150,5 +150,29 @@
   {
     "type": "hurt",
     "text": "I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills"
-  }
+  },
+  {
+    "type": "hurt",
+    "text": "I'll do you for that."
+  },
+  {
+    "type": "hurt",
+    "text": "Help help, I'm being oppressed."
+  },
+  {
+    "type": "hurt",
+    "text": "I'll bite your legs off."
+  },
+  {
+    "type": "hurt",
+    "text": "Tis but a scratch."
+  },
+  {
+    "type": "hurt",
+    "text": "Yes, it's sharp."
+  },
+  {
+    "type": "hurt",
+    "text": "Just do me in already!"
+  },
 ]
